@@ -1,0 +1,1 @@
+Linux command line image editor/generator. Run the ppm_menu file, then type "menu" to see options.

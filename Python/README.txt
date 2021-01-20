@@ -1,0 +1,1 @@
+You must have the Pygame library installed in order to run any of these python scripts
